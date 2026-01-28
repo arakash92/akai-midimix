@@ -8,3 +8,7 @@ This is a control script for the Akai Midimix mixer/control surface for use with
 
 # License
 MIT. See the LICENSE file.
+
+# Credits
+
+Arakash92
